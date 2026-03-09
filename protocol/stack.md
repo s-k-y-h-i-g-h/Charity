@@ -25,7 +25,7 @@
 ### Sleep
 - Selegiline (sublingual)
 - Lithium Aspartate
-- CBD (200-300mg daily, isolate in MCT oil) — Mood, sleep, inflammation support
+- CBD (200-300mg daily, currently MCT oil from Boots; transitioning to isolate powder) — Mood, sleep, inflammation support
 - Additional recovery compounds
 
 ### HRT
