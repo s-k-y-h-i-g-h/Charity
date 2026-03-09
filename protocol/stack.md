@@ -25,6 +25,7 @@
 ### Sleep
 - Selegiline (sublingual)
 - Lithium Aspartate
+- CBD (200-300mg daily, isolate in MCT oil) — Mood, sleep, inflammation support
 - Additional recovery compounds
 
 ### HRT
@@ -59,6 +60,12 @@
 - **Mechanism:** AMPA receptor positive allosteric modulator
 - **Evidence:** Cognitive enhancement (preclinical)
 - **Status:** Active monitoring for human data
+
+### CBD (Cannabidiol)
+- **Mechanism:** CB1/CB2 receptor modulation, anandamide reuptake inhibition, anti-inflammatory
+- **Evidence:** Strong human data for anxiety, sleep, pain; emerging for neuroprotection
+- **Status:** Active (200-300mg daily, isolate) — User reports significant mood/sleep improvement
+- **Note:** Isolate preferred for THC-free, legal, consistent dosing
 
 ---
 
@@ -96,6 +103,7 @@
 | Memantine | ✅ Some | ✅ Emerging | Active |
 | IDRA-21 | ⚠️ Limited | ✅ Some | Monitor |
 | NAD+ Boosters | ⚠️ Controversial | ✅ Some | Review |
+| CBD | ✅ Strong | ✅ Extensive | Active |
 
 ---
 
